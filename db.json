@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "title": "kmail",
+      "message": "kamil mesa",
+      "id": 13
+    },
+    {
+      "title": "Mansi",
+      "message": "This is my new post",
+      "id": 15
+    },
+    {
+      "title": "Mansi Trivedi",
+      "message": "Mansi Trivedi Posted",
+      "id": 16
+    },
+    {
+      "title": "Hello",
+      "message": "This is hello Post",
+      "id": 17
+    },
+    {
+      "title": "abcdfddddd",
+      "message": "dsddsdasdasd",
+      "id": 18
+    }
+  ],
+  "likepost": [
+    {
+      "title": "kmail",
+      "message": "kamil mesa",
+      "id": 13
+    }
+  ]
+}
